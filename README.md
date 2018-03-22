@@ -1,5 +1,8 @@
 # Grupa8: Powerpuffs
 
+![alt text](https://goodereader.com/blog/uploads/images/Bookstores-in-Brooklyn.jpg)
+
+</br>
 **Tema: Bookstore**
 
 **Članovi tima:**
