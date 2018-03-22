@@ -1,9 +1,10 @@
 # Grupa8: Powerpuffs
 
+**Tema: Bookstore** </br>
 ![alt text](https://goodereader.com/blog/uploads/images/Bookstores-in-Brooklyn.jpg)
 
 </br>
-**Tema: Bookstore**
+
 
 **Članovi tima:**
 1. Enisa Musić
