@@ -1,16 +1,17 @@
 # Grupa8: Powerpuffs
 
-Tema: Bookstore
+**Tema: Bookstore**
 
-Članovi tima:
+**Članovi tima:**
 1. Enisa Musić
 2. Amila Mujak
 3. Edina Osmanspahić
 
-Opis teme: 
+
+**Opis teme:**
 Aplikacija Bookstore omogućava jednostavnu i sigurnu online ponudu i prodaju knjiga, a tako i školskog pribora. Tačnije, radi se o lancu knjižara unutar Evrope. Aplikacija prati rad svake poslovnice, svakog radnika, te svaku prodaju čuva u bazi podataka. Pored toga aplikacija prikazuje statistike vezane za najprodavanije knjige, najtraženije pisce ali i najviše prometne poslovnice u pomenutom lancu knjižara. Važan dio je i mogućnost prijave u Klub knjige u koji se mogu učlaniti svi registrovani korisnici. 
 
-Procesi:
+**Procesi:**
 1. Registracija korisnika/kupca
 Registracija korisnika uključuje podatke:
 •	Ime
@@ -84,7 +85,7 @@ Ova funkcionalnost se odnosi na pregled lokacija svake lokalne poslovnice.
 18. Vrste plaćanja
 Kupcima se omogućava da biraju da li će plaćati karticom ili preko paypal-a. 
 
-Funkcionalnosti:
+**Funkcionalnosti:**
 1. Registracija korisnika/kupca
 2. Registracija zaposlenog
 3. Mogućnost uređivanja profila zaposlenih
@@ -104,11 +105,11 @@ Funkcionalnosti:
 17. Pregled lokacija knjižara
 18. Vrste plaćanja
 
-Akteri:
-Administrator (admin) - Osoba koja nadgleda cjelokupni sistem, te koja ima uvid u historiju poslovanja firme.
-Šef (globalni/lokalni) – Ima uvid u rad knjižare, sve poslove, radnike i donosi krajnje odluke za neke zahtjeve. 
-Upravitelj za ljudske resurse – Vrši zapošljavanje i otpuštanje radnika.
-Korisnik/kupac – Bilo koja osoba koja se registruje na stranicu.
-Radnici – Osobe koje rade u knjižari. Mogu raditi na različitim pozicijama. 
+**Akteri:**
+Administrator (admin) - Osoba koja nadgleda cjelokupni sistem, te koja ima uvid u historiju poslovanja firme. </br>
+Šef (globalni/lokalni) – Ima uvid u rad knjižare, sve poslove, radnike i donosi krajnje odluke za neke zahtjeve. </br>
+Upravitelj za ljudske resurse – Vrši zapošljavanje i otpuštanje radnika.</br>
+Korisnik/kupac – Bilo koja osoba koja se registruje na stranicu. </br>
+Radnici – Osobe koje rade u knjižari. Mogu raditi na različitim pozicijama.  </br>
 
 
