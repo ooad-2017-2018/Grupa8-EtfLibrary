@@ -106,13 +106,9 @@ Funkcionalnosti:
 
 Akteri:
 Administrator (admin) - Osoba koja nadgleda cjelokupni sistem, te koja ima uvid u historiju poslovanja firme.
-
 Šef (globalni/lokalni) – Ima uvid u rad knjižare, sve poslove, radnike i donosi krajnje odluke za neke zahtjeve. 
-
 Upravitelj za ljudske resurse – Vrši zapošljavanje i otpuštanje radnika.
-
 Korisnik/kupac – Bilo koja osoba koja se registruje na stranicu.
-
 Radnici – Osobe koje rade u knjižari. Mogu raditi na različitim pozicijama. 
 
 
