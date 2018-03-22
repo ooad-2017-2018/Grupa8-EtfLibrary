@@ -8,7 +8,7 @@
 3. Edina Osmanspahić
 
 
-**Opis teme:**
+**Opis teme:** </br>
 Aplikacija Bookstore omogućava jednostavnu i sigurnu online ponudu i prodaju knjiga, a tako i školskog pribora. Tačnije, radi se o lancu knjižara unutar Evrope. Aplikacija prati rad svake poslovnice, svakog radnika, te svaku prodaju čuva u bazi podataka. Pored toga aplikacija prikazuje statistike vezane za najprodavanije knjige, najtraženije pisce ali i najviše prometne poslovnice u pomenutom lancu knjižara. Važan dio je i mogućnost prijave u Klub knjige u koji se mogu učlaniti svi registrovani korisnici. 
 
 **Procesi:** </br>
