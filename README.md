@@ -3,7 +3,9 @@
 
 ![alt text](https://goodereader.com/blog/uploads/images/Bookstores-in-Brooklyn.jpg)
 </br>
+</br>
 **Tema: Bookstore** </br>
+
 **Članovi tima:**
 1. Enisa Musić
 2. Amila Mujak
