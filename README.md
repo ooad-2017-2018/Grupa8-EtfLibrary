@@ -11,31 +11,31 @@
 **Opis teme:**
 Aplikacija Bookstore omogućava jednostavnu i sigurnu online ponudu i prodaju knjiga, a tako i školskog pribora. Tačnije, radi se o lancu knjižara unutar Evrope. Aplikacija prati rad svake poslovnice, svakog radnika, te svaku prodaju čuva u bazi podataka. Pored toga aplikacija prikazuje statistike vezane za najprodavanije knjige, najtraženije pisce ali i najviše prometne poslovnice u pomenutom lancu knjižara. Važan dio je i mogućnost prijave u Klub knjige u koji se mogu učlaniti svi registrovani korisnici. 
 
-**Procesi:**
-1. Registracija korisnika/kupca
-Registracija korisnika uključuje podatke:
-•	Ime
-•	Prezime
-•	Datum rođenja
-•	Grad
-•	Adresa
-•	Poštanski broj
-•	E-mail
-•	Kontakt telefon
-•	Broj kreditne kartice 
+**Procesi:** </br>
+1. Registracija korisnika/kupca </br>
+Registracija korisnika uključuje podatke: </br>
+•	Ime </br>
+•	Prezime </br>
+•	Datum rođenja</br>
+•	Grad</br>
+•	Adresa</br>
+•	Poštanski broj</br>
+•	E-mail</br>
+•	Kontakt telefon</br>
+•	Broj kreditne kartice </br>
 
-2. Registracija zaposlenog
-•	Ime
-•	Prezime
-•	Datum rođenja 
-•	E-mail
-•	Kontakt telefon
-•	Grad 
-•	Adresa
-•	Pozicija na kojoj radi
-•	Zvanje
-•	Radno iskustvo
-•	Slika
+2. Registracija zaposlenog</br>
+•	Ime</br>
+•	Prezime</br>
+•	Datum rođenja </br>
+•	E-mail</br>
+•	Kontakt telefon</br>
+•	Grad </br>
+•	Adresa</br>
+•	Pozicija na kojoj radi</br>
+•	Zvanje</br>
+•	Radno iskustvo</br>
+•	Slika</br>
 
 3.  Mogućnost uređivanja profila zaposlenih
 Šef svake lokalne poslovnice ima mogućnost uređivanja profila svojih zaposlenih. Glavni šef lanca knjižara ima mogućnost uređivanja profila šefova lokalnih poslovnica.
