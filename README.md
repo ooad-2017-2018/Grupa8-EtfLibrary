@@ -84,8 +84,7 @@ Ova funkcionalnost se odnosi na pregled lokacija svake lokalne poslovnice.
 Kupcima se omogućava da biraju da li će plaćati karticom ili preko paypal-a. 
 
 **Funkcionalnosti:**</br>
-1. Registracija korisnika/kupca
-2. Registracija zaposlenog
+1. Mogućnost registracije kupca i zaposlenog
 3. Mogućnost uređivanja profila zaposlenih
 4. Mogućnost praćenja zaliha u skladištu
 5. Mogućnost podjele poslova 
