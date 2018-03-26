@@ -71,22 +71,16 @@ Svaki zaposlenik može tražiti zahtjev za godišnji odmor, bolovanje, plaćeno 
 12. Mogućnost praćenja finansija</br>
 Svaki šef ima mogućnost da prati finansije svoje poslovnice.
 
-13. Mogućnost zaposlenja novih radnika i njihov unos u sistem</br>
-Prilikom zaposlenja novog radnika, upravitelj za ljudske resurse unosi njegove podatke u bazu podataka. 
+13. Mogućnost zaposlenja novih radnika i njihov unos u sistem, a pored toga i mogućnost otpuštanja radnika bez njihovog brisanja iz sistema</br>
+Prilikom zaposlenja novog radnika, upravitelj za ljudske resurse unosi njegove podatke u bazu podataka, dok prilikom otpuštanja radnika upravitelj za ljudske resurse postavlja aktivnost radnika na "neaktivan". 
 
-14. Mogućnost otpuštanja radnika </br>
-Upravitelj za ljudske resurse ima mogućnost otpuštanja radnika, međutim nikada ih ne briše iz baze nego im samo mijenja status u „neaktivan“.  
-
-15. Statistika najtraženijih i najprodavanijih knjiga</br>
+14. Statistika najtraženijih i najprodavanijih knjiga, pa tako i najtraženijeg pisca</br>
 Aplikacija omogućava prikaz tih podataka na početnoj stranici.
 
-16. Statistika najtraženijeg pisca</br>
-Aplikacija omogućava prikaz tih podataka na početnoj stranici.
-
-17. Pregled lokacija knjižara</br>
+15. Pregled lokacija knjižara</br>
 Ova funkcionalnost se odnosi na pregled lokacija svake lokalne poslovnice.
 
-18. Vrste plaćanja</br>
+16. Vrste plaćanja</br>
 Kupcima se omogućava da biraju da li će plaćati karticom ili preko paypal-a. 
 
 **Funkcionalnosti:**</br>
@@ -102,12 +96,10 @@ Kupcima se omogućava da biraju da li će plaćati karticom ili preko paypal-a.
 10. Online knjiga žalbi
 11. Mogućnost zaposlenih da podnose razne zahtjeve
 12. Mogućnost praćenja finansija
-13. Mogućnost zaposlenja novih radnika i njihov unos u sistem
-14. Mogućnost otpuštanja radnika 
-15. Statistika najtraženijih i najprodavanijih knjiga
-16. Statistika najtraženijeg pisca
-17. Pregled lokacija knjižara
-18. Vrste plaćanja
+13. Mogućnost zaposlenja novih radnika i otpuštanje radnika
+14. Statistika najtraženijih i najprodavanijih knjiga i najtraženijeg pisca
+15. Pregled lokacija knjižara
+16. Vrste plaćanja
 
 **Akteri:**</br>
 Administrator (admin) - Osoba koja nadgleda cjelokupni sistem, te koja ima uvid u historiju poslovanja firme. </br>
