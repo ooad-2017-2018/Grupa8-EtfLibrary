@@ -132,17 +132,19 @@ namespace ETF_Library.ETF_Library_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[4];
+            _typeNameTable = new string[5];
             _typeNameTable[0] = "ETF_Library.MainPage";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
-            _typeNameTable[3] = "ETF_Library.RegistracijaKorisnika";
+            _typeNameTable[3] = "ETF_Library.OnlineKnjigaZalbi";
+            _typeNameTable[4] = "ETF_Library.RegistracijaKorisnika";
 
-            _typeTable = new global::System.Type[4];
+            _typeTable = new global::System.Type[5];
             _typeTable[0] = typeof(global::ETF_Library.MainPage);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
-            _typeTable[3] = typeof(global::ETF_Library.RegistracijaKorisnika);
+            _typeTable[3] = typeof(global::ETF_Library.OnlineKnjigaZalbi);
+            _typeTable[4] = typeof(global::ETF_Library.RegistracijaKorisnika);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -178,7 +180,8 @@ namespace ETF_Library.ETF_Library_XamlTypeInfo
         }
 
         private object Activate_0_MainPage() { return new global::ETF_Library.MainPage(); }
-        private object Activate_3_RegistracijaKorisnika() { return new global::ETF_Library.RegistracijaKorisnika(); }
+        private object Activate_3_OnlineKnjigaZalbi() { return new global::ETF_Library.OnlineKnjigaZalbi(); }
+        private object Activate_4_RegistracijaKorisnika() { return new global::ETF_Library.RegistracijaKorisnika(); }
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(int typeIndex)
         {
@@ -205,9 +208,16 @@ namespace ETF_Library.ETF_Library_XamlTypeInfo
                 xamlType = new global::ETF_Library.ETF_Library_XamlTypeInfo.XamlSystemBaseType(typeName, type);
                 break;
 
-            case 3:   //  ETF_Library.RegistracijaKorisnika
+            case 3:   //  ETF_Library.OnlineKnjigaZalbi
                 userType = new global::ETF_Library.ETF_Library_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_3_RegistracijaKorisnika;
+                userType.Activator = Activate_3_OnlineKnjigaZalbi;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 4:   //  ETF_Library.RegistracijaKorisnika
+                userType = new global::ETF_Library.ETF_Library_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_4_RegistracijaKorisnika;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;

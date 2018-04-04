@@ -35,12 +35,16 @@
         <TextBox x:ConnectionId='16' x:Name="textBox5" HorizontalAlignment="Left" Margin="1377,308,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="74" Width="419"/>
         <TextBox x:ConnectionId='17' x:Name="textBox6" HorizontalAlignment="Left" Margin="1631,447,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="74" Width="436"/>
         <Button x:ConnectionId='18' x:Name="button" Content="Registruj se&#xD;&#xA;" HorizontalAlignment="Left" Margin="1503,924,0,0" VerticalAlignment="Top" FontSize="50" Width="551" Height="94"/>
-        <TextBlock x:ConnectionId='19' x:Name="textBlock2" HorizontalAlignment="Left" Margin="149,457,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="50" Width="378" Height="95">
+        <TextBlock x:ConnectionId='19' x:Name="textBlock2" HorizontalAlignment="Left" Margin="156,464,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="50" Width="378" Height="95">
             <Run Text="Datum rodj"/>
             <Run Text="enja"/>
             <LineBreak/>
             <Run/>
         </TextBlock>
+        <TextBlock x:ConnectionId='20' x:Name="textBlock10" HorizontalAlignment="Left" Margin="1154,631,0,0" TextWrapping="Wrap" Text="Username" VerticalAlignment="Top" FontSize="50"/>
+        <TextBlock x:ConnectionId='21' x:Name="textBlock11" HorizontalAlignment="Left" Margin="1161,753,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" FontSize="50"/>
+        <TextBox x:ConnectionId='22' x:Name="textBox7" HorizontalAlignment="Left" Margin="1498,628,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="50" Width="495"/>
+        <TextBox x:ConnectionId='23' x:Name="textBox8" HorizontalAlignment="Left" Margin="1502,764,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="84" Width="492" FontSize="50"/>
 
     </Grid>
 </Page>
