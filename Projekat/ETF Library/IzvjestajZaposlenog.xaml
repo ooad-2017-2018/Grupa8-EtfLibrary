@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="ETF_Library.PodnosenjeZahtjeva"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ETF_Library"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="117,150,0,0" Text="Ime i prezime zaposlenog" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="117,234,0,0" Text="Datum izvjestaja" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30"/>
+        <TextBlock x:Name="textBlock1_Copy" HorizontalAlignment="Left" Margin="117,318,0,0" Text="Izvjestaj:" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="30"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="567,150,0,0" Text="Unesite ime i prezime" VerticalAlignment="Top" Height="52" Width="468"/>
+        <TextBox x:Name="textBox_Copy" HorizontalAlignment="Left" Margin="117,402,0,0" Text="Izvjestaj" VerticalAlignment="Top" Height="416" Width="918"/>
+        <TextBox x:Name="textBox_Copy1" HorizontalAlignment="Left" Margin="567,228,0,0" Text="Unesite datum izvjestaja" VerticalAlignment="Top" Height="52" Width="468"/>
+        <Button x:Name="button" Content="Unesite izvještaj" HorizontalAlignment="Left" Height="64" Margin="653,880,0,0" VerticalAlignment="Top" Width="297" FontSize="20"/>
+    </Grid>
+</Page>
